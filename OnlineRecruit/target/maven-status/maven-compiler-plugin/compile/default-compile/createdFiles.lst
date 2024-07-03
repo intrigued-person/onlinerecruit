@@ -1,0 +1,11 @@
+com\shakeel\demo\model\Application.class
+com\shakeel\demo\service\ApplnService.class
+com\shakeel\demo\service\JobService.class
+com\shakeel\demo\controller\AppController.class
+com\shakeel\demo\model\Job.class
+com\shakeel\demo\OnlineRecuirmentApplication.class
+com\shakeel\demo\serviceimpl\ApplnServiceImpl.class
+com\shakeel\demo\serviceimpl\JobServiceImpl.class
+com\shakeel\demo\controller\JobController.class
+com\shakeel\demo\repoisatory\AppRepo.class
+com\shakeel\demo\repoisatory\JobRepo.class
